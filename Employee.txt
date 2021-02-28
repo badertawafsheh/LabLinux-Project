@@ -1,0 +1,7 @@
+nader|123456|1171215|3/5/1993|marketing manager|2|2
+Bader|12345|1171214|1/1/1923|office manager|1|1
+rami|1234567|1171216|7/6/1963|marketing manager|2|2
+yousef|12345678|1171217|9/1/1993|office manager|1|1
+Bilal|123456789|1171218|12/1/1993|marketing manager|1|1
+Freij|12313|1171219|14/5/1999|office manager|1|2
+nemer|12313|1171220|14/5/1969|marketing manager|2|1
